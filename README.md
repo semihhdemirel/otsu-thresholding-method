@@ -22,5 +22,5 @@ The pixel value with the least within-class variance value is determined as the 
 ![GitHub Logo](/images/animal.jpg)
 <br><br>
 ### Output:
-The threshold value was calculated 163 by using otsu.py<br>
+The threshold value was calculated as 163 by using otsu.py<br>
 ![GitHub Logo](/images/animal_binary.jpg)
